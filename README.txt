@@ -19,6 +19,8 @@
 	|	- freq_relay_controller.sof
 	|	- nios2.sopcinfo
 	
+	NOTE: Config files and drivers for DEII board not included
+	
 	Getting Started:
  
 	- Connect VGA cable to monitor (VGA Output)
